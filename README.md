@@ -24,14 +24,13 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=josers77j&show_icons=true&theme=tokyonight" alt="Pramod's Github Stats">
 </p>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josers77j&hide=assembly,pawn&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> ;
  </a>
 
   <br/>
@@ -44,4 +43,4 @@
 <p>
 Visit my profile and give a ⭐️ if you like it</p>
 
-⭐️ From [rajput2107](https://github.com/rajput2107)
+⭐️ From [josers77j](https://github.com/josers77j)
