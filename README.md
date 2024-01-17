@@ -3,7 +3,7 @@
  <br/>
 ## Ask me about :computer: 
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" src="https://github.com/josers77j/josers77j/blob/main/assets/study.gif"/>
 
 - **Web Development**
 	<br/><br/>
@@ -26,7 +26,7 @@
 </p>  
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/josers77j/josers77j/blob/main/assets/study.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/josers77j/josers77j/blob/main/assets/handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
