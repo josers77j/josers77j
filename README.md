@@ -12,10 +12,9 @@
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **<img alt="Static Badge" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&cacheSeconds=30000">
-**
-- **<img alt="Static Badge" src="https://img.shields.io/badge/next.JS-%23000?style=for-the-badge&logo=nextdotjs&logoColor=white&cacheSeconds=30000">
-**
+- <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&cacheSeconds=30000">
+- <img alt="Static Badge" src="https://img.shields.io/badge/next.JS-%23000?style=for-the-badge&logo=nextdotjs&logoColor=white&cacheSeconds=30000">
+
 <br/>
   <br/>
 
