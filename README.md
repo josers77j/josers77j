@@ -1,4 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hello world!&nbsp;<img src="https://github.com/josers77j/josers77j/blob/main/assets/world.gif" width="24px">  
+<em>I am a 5th year undergraduate, self-taught developer from <a href=“https://www.univo.edu.sv/”><b>Universidad de Oriente</b></a>. I fell in love with technology when I was younger <br/> and this planted a seed in me to investigate and discover a new world. Since then, I have been learning constantly and I hope to keep learning in the future. I trust that there is no limit to explore a new world, except your own imagination. 🚀</em>
+ <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josers77j&label=Profile%20views&color=0e75b6&style=flat" alt="josers77j" /> </p>
 
