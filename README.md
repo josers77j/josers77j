@@ -30,7 +30,6 @@
 
 ### Frameworks:
 
-![Static Badge](https://img.shields.io/badge/BOOTSTRAP%20-%20?style=for-the-badge&logo=bootstrap&labelColor=%23000&color=%237952B3)
 ![Static Badge](https://img.shields.io/badge/EXPRESSJS%20-%20?style=for-the-badge&logo=express&labelColor=%23000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/NESTJS%20-%20?style=for-the-badge&logo=nestjs&labelColor=%23000&color=%23E0234E)
 ![Static Badge](https://img.shields.io/badge/REACT%20-%20?style=for-the-badge&logo=react&labelColor=%23000&color=%2361DAFB)
@@ -43,7 +42,7 @@
 
 ### Tools:
 
-
+![Static Badge](https://img.shields.io/badge/BOOTSTRAP%20-%20?style=for-the-badge&logo=bootstrap&labelColor=%23000&color=%237952B3)
 ![Static Badge](https://img.shields.io/badge/AWS%20-%20?style=for-the-badge&logo=amazonaws&labelColor=%23000&color=%23232F3E)
 ![Static Badge](https://img.shields.io/badge/CHARTJS%20-%20?style=for-the-badge&logo=chartdotjs&labelColor=%23000&color=%23FF6384)
 ![Static Badge](https://img.shields.io/badge/CSS3%20-%20?style=for-the-badge&logo=css3&labelColor=%23000&color=%231572B6)
