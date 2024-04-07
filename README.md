@@ -14,48 +14,39 @@
 </p>
 
 ---
-
+## Frontend:
 ### Languages:
-
-![Static Badge](https://img.shields.io/badge/C%23%20-%20?style=for-the-badge&logo=C%23&labelColor=%23000&color=%23512BD4)
 ![Static Badge](https://img.shields.io/badge/JavaScript%20-%20?style=for-the-badge&logo=JavaScript&labelColor=%23000&color=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/PHP%20-%20?style=for-the-badge&logo=PHP&labelColor=%23000&color=%23777BB4)
 ![Static Badge](https://img.shields.io/badge/TYPESCRIPT%20-%20?style=for-the-badge&logo=TYPESCRIPT&labelColor=%23000&color=%233178C6)
-![Static Badge](https://img.shields.io/badge/JAVA%20-%20?style=for-the-badge&logo=buymeacoffee&labelColor=%23000&color=%23f09323)
-
-
-
-
----
-
 ### Frameworks:
+![Static Badge](https://img.shields.io/badge/REACT%20-%20?style=for-the-badge&logo=react&labelColor=%23000&color=%2361DAFB)
+### Tools:
+![Static Badge](https://img.shields.io/badge/BOOTSTRAP%20-%20?style=for-the-badge&logo=bootstrap&labelColor=%23000&color=%237952B3)
+![Static Badge](https://img.shields.io/badge/CSS3%20-%20?style=for-the-badge&logo=css3&labelColor=%23000&color=%231572B6)
+![Static Badge](https://img.shields.io/badge/HTML5%20-%20?style=for-the-badge&logo=html5&labelColor=%23000&color=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CHARTJS%20-%20?style=for-the-badge&logo=chartdotjs&labelColor=%23000&color=%23FF6384)
+![Static Badge](https://img.shields.io/badge/POSTMAN%20-%20?style=for-the-badge&logo=postman&labelColor=%23000&color=%23FF6C37)
 
+## Backend:
+### Languages:
+![Static Badge](https://img.shields.io/badge/TYPESCRIPT%20-%20?style=for-the-badge&logo=TYPESCRIPT&labelColor=%23000&color=%233178C6)
+![Static Badge](https://img.shields.io/badge/C%23%20-%20?style=for-the-badge&logo=C%23&labelColor=%23000&color=%23512BD4)
+![Static Badge](https://img.shields.io/badge/PHP%20-%20?style=for-the-badge&logo=PHP&labelColor=%23000&color=%23777BB4)
+![Static Badge](https://img.shields.io/badge/JAVA%20-%20?style=for-the-badge&logo=buymeacoffee&labelColor=%23000&color=%23f09323)
+### Frameworks:
 ![Static Badge](https://img.shields.io/badge/EXPRESSJS%20-%20?style=for-the-badge&logo=express&labelColor=%23000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/NESTJS%20-%20?style=for-the-badge&logo=nestjs&labelColor=%23000&color=%23E0234E)
-![Static Badge](https://img.shields.io/badge/REACT%20-%20?style=for-the-badge&logo=react&labelColor=%23000&color=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/SPRING%20BOOT%20-%20?style=for-the-badge&logo=springboot&labelColor=%23000&color=%236DB33F)
 ![Static Badge](https://img.shields.io/badge/LARAVEL%20-%20?style=for-the-badge&logo=laravel&labelColor=%23000&color=%23FF2D20)
 ![Static Badge](https://img.shields.io/badge/XAMARIN%20-%20?style=for-the-badge&logo=xamarin&labelColor=%23000&color=%233498DB)
-
-
----
-
 ### Tools:
-
-![Static Badge](https://img.shields.io/badge/BOOTSTRAP%20-%20?style=for-the-badge&logo=bootstrap&labelColor=%23000&color=%237952B3)
 ![Static Badge](https://img.shields.io/badge/AWS%20-%20?style=for-the-badge&logo=amazonaws&labelColor=%23000&color=%23232F3E)
-![Static Badge](https://img.shields.io/badge/CHARTJS%20-%20?style=for-the-badge&logo=chartdotjs&labelColor=%23000&color=%23FF6384)
-![Static Badge](https://img.shields.io/badge/CSS3%20-%20?style=for-the-badge&logo=css3&labelColor=%23000&color=%231572B6)
-![Static Badge](https://img.shields.io/badge/HTML5%20-%20?style=for-the-badge&logo=html5&labelColor=%23000&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/DOCKER%20-%20?style=for-the-badge&logo=docker&labelColor=%23000&color=%232496ED)
 ![Static Badge](https://img.shields.io/badge/GIT%20-%20?style=for-the-badge&logo=git&labelColor=%23000&color=%23F05032)
 ![Static Badge](https://img.shields.io/badge/GITHUB%20-%20?style=for-the-badge&logo=github&labelColor=%23000&color=%23181717)
 ![Static Badge](https://img.shields.io/badge/LINUX%20-%20?style=for-the-badge&logo=linux&labelColor=%23000&color=%23FCC624)
 ![Static Badge](https://img.shields.io/badge/MARIADB%20-%20?style=for-the-badge&logo=mariadb&labelColor=%23000&color=%23003545)
 ![Static Badge](https://img.shields.io/badge/MYSQL%20-%20?style=for-the-badge&logo=mysql&labelColor=%23000&color=%234479A1)
-![Static Badge](https://img.shields.io/badge/POSTMAN%20-%20?style=for-the-badge&logo=postman&labelColor=%23000&color=%23FF6C37)
-
-
 
 
 ---
