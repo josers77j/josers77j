@@ -14,7 +14,7 @@
 </p>
 
 ---
-## Frontend:
+### Frontend:
 ### Languages:
 ![Static Badge](https://img.shields.io/badge/JavaScript%20-%20?style=for-the-badge&logo=JavaScript&labelColor=%23000&color=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/TYPESCRIPT%20-%20?style=for-the-badge&logo=TYPESCRIPT&labelColor=%23000&color=%233178C6)
@@ -27,7 +27,9 @@
 ![Static Badge](https://img.shields.io/badge/CHARTJS%20-%20?style=for-the-badge&logo=chartdotjs&labelColor=%23000&color=%23FF6384)
 ![Static Badge](https://img.shields.io/badge/POSTMAN%20-%20?style=for-the-badge&logo=postman&labelColor=%23000&color=%23FF6C37)
 
-## Backend:
+---
+
+### Backend:
 ### Languages:
 ![Static Badge](https://img.shields.io/badge/TYPESCRIPT%20-%20?style=for-the-badge&logo=TYPESCRIPT&labelColor=%23000&color=%233178C6)
 ![Static Badge](https://img.shields.io/badge/C%23%20-%20?style=for-the-badge&logo=C%23&labelColor=%23000&color=%23512BD4)
