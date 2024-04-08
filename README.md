@@ -21,6 +21,7 @@
 ### Frameworks:
 ![Static Badge](https://img.shields.io/badge/REACT%20-%20?style=for-the-badge&logo=react&labelColor=%23000&color=%2361DAFB)
 ### Tools:
+![Static Badge](https://img.shields.io/badge/NODE%20-%20NODE?style=for-the-badge&logo=nodedotjs&labelColor=%23000&color=%23339933)
 ![Static Badge](https://img.shields.io/badge/BOOTSTRAP%20-%20?style=for-the-badge&logo=bootstrap&labelColor=%23000&color=%237952B3)
 ![Static Badge](https://img.shields.io/badge/CSS3%20-%20?style=for-the-badge&logo=css3&labelColor=%23000&color=%231572B6)
 ![Static Badge](https://img.shields.io/badge/HTML5%20-%20?style=for-the-badge&logo=html5&labelColor=%23000&color=%23E34F26)
@@ -42,6 +43,7 @@
 ![Static Badge](https://img.shields.io/badge/LARAVEL%20-%20?style=for-the-badge&logo=laravel&labelColor=%23000&color=%23FF2D20)
 ![Static Badge](https://img.shields.io/badge/XAMARIN%20-%20?style=for-the-badge&logo=xamarin&labelColor=%23000&color=%233498DB)
 ### Tools:
+![Static Badge](https://img.shields.io/badge/NODE%20-%20NODE?style=for-the-badge&logo=nodedotjs&labelColor=%23000&color=%23339933)
 ![Static Badge](https://img.shields.io/badge/AWS%20-%20?style=for-the-badge&logo=amazonaws&labelColor=%23000&color=%23232F3E)
 ![Static Badge](https://img.shields.io/badge/DOCKER%20-%20?style=for-the-badge&logo=docker&labelColor=%23000&color=%232496ED)
 ![Static Badge](https://img.shields.io/badge/GIT%20-%20?style=for-the-badge&logo=git&labelColor=%23000&color=%23F05032)
