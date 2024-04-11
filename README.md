@@ -51,6 +51,7 @@
 ![Static Badge](https://img.shields.io/badge/LINUX%20-%20?style=for-the-badge&logo=linux&labelColor=%23000&color=%23FCC624)
 ![Static Badge](https://img.shields.io/badge/MARIADB%20-%20?style=for-the-badge&logo=mariadb&labelColor=%23000&color=%23003545)
 ![Static Badge](https://img.shields.io/badge/MYSQL%20-%20?style=for-the-badge&logo=mysql&labelColor=%23000&color=%234479A1)
+![Static Badge](https://img.shields.io/badge/JWT%20-%20jet?style=for-the-badge&logo=jsonwebtokens&labelColor=%23000000&color=%23000000)
 
 
 ---
