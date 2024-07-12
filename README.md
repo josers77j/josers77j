@@ -2,7 +2,6 @@
 <em>I am a 5th year undergraduate, self-taught developer from <a href="https://www.univo.edu.sv/"><b>Universidad de Oriente</b></a>. I fell in love with technology when I was younger and this planted a seed in me to investigate and discover a new world. Since then, I have been learning constantly and I hope to keep learning in the future. I trust that there is no limit to explore a new world, except your own imagination. 🚀</em>
 <br/>
 
-- 🔭 I’m currently working on **HOSPITAL ESPECIALIDADES NUESTRA SEÑORA DE LA PAZ**
 
 ---
 
