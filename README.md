@@ -1,3 +1,4 @@
+
 ### Hello world!&nbsp;<img src="https://github.com/josers77j/josers77j/blob/main/assets/world.gif" width="24px">
 <em>I am a 5th year undergraduate, self-taught developer from <a href="https://www.univo.edu.sv/"><b>Universidad de Oriente</b></a>. I fell in love with technology when I was younger and this planted a seed in me to investigate and discover a new world. Since then, I have been learning constantly and I hope to keep learning in the future. I trust that there is no limit to explore a new world, except your own imagination. 🚀</em>
 <br/>
@@ -13,19 +14,6 @@
 </p>
 
 ---
-### Frontend:
-### Languages:
-![Static Badge](https://img.shields.io/badge/JavaScript%20-%20?style=for-the-badge&logo=JavaScript&labelColor=%23000&color=%23F7DF1E)
-### Frameworks:
-![Static Badge](https://img.shields.io/badge/REACT%20-%20?style=for-the-badge&logo=react&labelColor=%23000&color=%2361DAFB)
-### Tools:
-![Static Badge](https://img.shields.io/badge/NODE%20-%20NODE?style=for-the-badge&logo=nodedotjs&labelColor=%23000&color=%23339933)
-![Static Badge](https://img.shields.io/badge/BOOTSTRAP%20-%20?style=for-the-badge&logo=bootstrap&labelColor=%23000&color=%237952B3)
-![Static Badge](https://img.shields.io/badge/CSS3%20-%20?style=for-the-badge&logo=css3&labelColor=%23000&color=%231572B6)
-![Static Badge](https://img.shields.io/badge/HTML5%20-%20?style=for-the-badge&logo=html5&labelColor=%23000&color=%23E34F26)
-![Static Badge](https://img.shields.io/badge/POSTMAN%20-%20?style=for-the-badge&logo=postman&labelColor=%23000&color=%23FF6C37)
-
----
 
 ### Backend:
 ### Languages:
@@ -35,7 +23,6 @@
 ### Frameworks:
 ![Static Badge](https://img.shields.io/badge/EXPRESSJS%20-%20?style=for-the-badge&logo=express&labelColor=%23000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/NESTJS%20-%20?style=for-the-badge&logo=nestjs&labelColor=%23000&color=%23E0234E)
-![Static Badge](https://img.shields.io/badge/SPRING%20BOOT%20-%20?style=for-the-badge&logo=springboot&labelColor=%23000&color=%236DB33F)
 ![Static Badge](https://img.shields.io/badge/LARAVEL%20-%20?style=for-the-badge&logo=laravel&labelColor=%23000&color=%23FF2D20)
 
 ### Tools:
@@ -71,4 +58,3 @@
 ### Thanks for stopping by (. ❛ ᴗ ❛.)<br/>
 
 ⭐️ From [josers77j](https://github.com/josers77j)
-
