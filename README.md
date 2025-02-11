@@ -1,7 +1,8 @@
 
 ### Hello world!&nbsp;<img src="https://github.com/josers77j/josers77j/blob/main/assets/world.gif" width="24px">
-<em>I am a 5th year undergraduate, self-taught developer from <a href="https://www.univo.edu.sv/"><b>Universidad de Oriente</b></a>. I fell in love with technology when I was younger and this planted a seed in me to investigate and discover a new world. Since then, I have been learning constantly and I hope to keep learning in the future. I trust that there is no limit to explore a new world, except your own imagination. 🚀</em>
-<br/>
+<em>I am a self-taught developer with a passion for software development and technology. My journey into programming began at a young age, sparking a lifelong curiosity to explore, learn, and innovate. Over the years, I have honed my skills through hands-on experience and continuous learning.</em>
+
+<em>I thrive on solving problems creatively and pushing the boundaries of what’s possible. I believe in the power of technology to transform ideas into impactful solutions, and I’m excited to keep growing as a developer. 🚀</em>
 
 
 ---
@@ -39,19 +40,11 @@
 
 ---
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josers77j&show_icons=true&locale=en&layout=compact" alt="josers77j" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josers77j&show_icons=true&locale=en" alt="josers77j" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josers77j&" alt="josers77j" />
-</p>
 
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
 
