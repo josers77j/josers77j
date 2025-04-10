@@ -1,9 +1,6 @@
 
 ### Hello world!&nbsp;<img src="https://github.com/josers77j/josers77j/blob/main/assets/world.gif" width="24px">
-<em>I am a self-taught developer with a passion for software development and technology. My journey into programming began at a young age, sparking a lifelong curiosity to explore, learn, and innovate. Over the years, I have honed my skills through hands-on experience and continuous learning.</em>
-
-<em>I thrive on solving problems creatively and pushing the boundaries of what’s possible. I believe in the power of technology to transform ideas into impactful solutions, and I’m excited to keep growing as a developer. 🚀</em>
-
+<em>I am a self-taught developer with a passion for software development and technology. My journey into programming began at a young age, sparking a lifelong curiosity to explore, learn, and innovate. Over the years, I have honed my skills through hands-on experience and continuous learning. 🚀</em>
 
 ---
 
@@ -16,15 +13,18 @@
 
 ---
 
-### Backend:
 ### Languages:
 ![Static Badge](https://img.shields.io/badge/TYPESCRIPT%20-%20?style=for-the-badge&logo=TYPESCRIPT&labelColor=%23000&color=%233178C6)
-![Static Badge](https://img.shields.io/badge/PHP%20-%20?style=for-the-badge&logo=PHP&labelColor=%23000&color=%23777BB4)
-![Static Badge](https://img.shields.io/badge/JAVA%20-%20?style=for-the-badge&logo=buymeacoffee&labelColor=%23000&color=%23f09323)
+![Static Badge](https://img.shields.io/badge/c%23%20-c%23?style=for-the-badge&logo=c&logoSize=amd&labelColor=black&color=%23A8B9CC)
+
 ### Frameworks:
 ![Static Badge](https://img.shields.io/badge/EXPRESSJS%20-%20?style=for-the-badge&logo=express&labelColor=%23000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/NESTJS%20-%20?style=for-the-badge&logo=nestjs&labelColor=%23000&color=%23E0234E)
-![Static Badge](https://img.shields.io/badge/LARAVEL%20-%20?style=for-the-badge&logo=laravel&labelColor=%23000&color=%23FF2D20)
+![Static Badge](https://img.shields.io/badge/.Net%20Core%20-%20Net?style=for-the-badge&logo=dotnet&logoSize=amd&labelColor=black&color=%23512BD4)
+![Static Badge](https://img.shields.io/badge/Angular%20-%20Angular?style=for-the-badge&logo=Angular&logoSize=amd&labelColor=black&color=%230F0F11)
+
+
+
 
 ### Tools:
 ![Static Badge](https://img.shields.io/badge/NODE%20-%20NODE?style=for-the-badge&logo=nodedotjs&labelColor=%23000&color=%23339933)
@@ -35,6 +35,7 @@
 ![Static Badge](https://img.shields.io/badge/LINUX%20-%20?style=for-the-badge&logo=linux&labelColor=%23000&color=%23FCC624)
 ![Static Badge](https://img.shields.io/badge/MARIADB%20-%20?style=for-the-badge&logo=mariadb&labelColor=%23000&color=%23003545)
 ![Static Badge](https://img.shields.io/badge/MYSQL%20-%20?style=for-the-badge&logo=mysql&labelColor=%23000&color=%234479A1)
+![Static Badge](https://img.shields.io/badge/postgresql%20-%20postgresql?style=for-the-badge&logo=postgresql&logoSize=amd&labelColor=black&color=%234169E1)
 ![Static Badge](https://img.shields.io/badge/JWT%20-%20jet?style=for-the-badge&logo=jsonwebtokens&labelColor=%23000000&color=%23000000)
 
 
@@ -46,7 +47,6 @@
 
 ---
 
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
 
 ### Thanks for stopping by (. ❛ ᴗ ❛.)<br/>
 
